@@ -1,0 +1,12 @@
+node_modules/
+**/node_modules/
+
+test/results.json
+grade-report.md
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+*.log
